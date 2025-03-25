@@ -1,31 +1,31 @@
-[25Mar2025 03:03:48.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[25Mar2025 03:03:48.955] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[25Mar2025 03:03:48.956] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[25Mar2025 03:03:49.078] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[25Mar2025 03:03:49.187] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[25Mar2025 03:03:49.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/SERVER-M/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[25Mar2025 03:03:49.546] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[25Mar2025 03:03:50.343] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[25Mar2025 03:03:50.357] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[25Mar2025 03:03:50.405] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[25Mar2025 03:03:50.559] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.562] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.563] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.564] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.566] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.570] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.571] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.572] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.574] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.575] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.576] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 03:03:50.812] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[25Mar2025 03:03:51.115] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[25Mar2025 03:03:51.227] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[25Mar2025 03:03:56.682] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
-[25Mar2025 03:03:56.685] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
-[25Mar2025 03:03:56.704] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[25Mar2025 03:03:56.776] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to register automatic subscribers. ModID: carryon, class tschipp.carryon.CarryOnForge
+[25Mar2025 03:08:42.500] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[25Mar2025 03:08:42.503] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[25Mar2025 03:08:42.504] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[25Mar2025 03:08:42.629] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[25Mar2025 03:08:42.737] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[25Mar2025 03:08:42.847] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/SERVER-M/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[25Mar2025 03:08:43.145] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[25Mar2025 03:08:44.081] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Mar2025 03:08:44.103] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[25Mar2025 03:08:44.137] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[25Mar2025 03:08:44.290] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.291] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.296] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.298] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.300] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.302] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.303] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.306] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.308] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.310] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.312] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 03:08:44.551] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[25Mar2025 03:08:44.857] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[25Mar2025 03:08:44.965] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[25Mar2025 03:08:50.432] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[25Mar2025 03:08:50.437] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[25Mar2025 03:08:50.455] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[25Mar2025 03:08:50.464] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to register automatic subscribers. ModID: carryon, class tschipp.carryon.CarryOnForge
 java.lang.NoClassDefFoundError: net/minecraft/client/renderer/MultiBufferSource
 	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
 	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?]
@@ -58,13 +58,13 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.Multi
 	at cpw.mods.securejarhandler/net.minecraftforge.securemodules.SecureModuleClassLoader.loadClass(SecureModuleClassLoader.java:454) ~[securemodules-2.2.20.jar!/:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 27 more
-[25Mar2025 03:03:56.902] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
-[25Mar2025 03:03:56.953] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[25Mar2025 03:03:56.964] [main/ERROR] [net.minecraft.CrashReport/]: Negative index in crash report handler (21/23)
-[25Mar2025 03:03:56.990] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ac600190-44f7-4f6c-b48c-05aec5cbfc89
-[25Mar2025 03:03:56.990] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-03-25_03.03.56-fml.txt
-[25Mar2025 03:03:56.994] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6aeebb12-8259-472c-8197-bc512e9eb9c7
-[25Mar2025 03:03:56.995] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[25Mar2025 03:08:50.642] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[25Mar2025 03:08:50.684] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVER-M/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[25Mar2025 03:08:50.695] [main/ERROR] [net.minecraft.CrashReport/]: Negative index in crash report handler (21/23)
+[25Mar2025 03:08:50.722] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f86b1f6f-54c5-4cbb-91eb-a226809fafa4
+[25Mar2025 03:08:50.722] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-03-25_03.08.50-fml.txt
+[25Mar2025 03:08:50.726] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ded2ee13-6125-4555-8cc6-370ee5786559
+[25Mar2025 03:08:50.727] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	Carry On (carryon) has failed to load correctly
 §7java.lang.NoClassDefFoundError: net/minecraft/client/renderer/MultiBufferSource
