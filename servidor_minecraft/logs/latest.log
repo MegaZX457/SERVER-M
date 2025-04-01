@@ -216,3 +216,11 @@
 [01Apr2025 04:57:04.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MegaZX4734> enconte mucho por esta montaña
 [01Apr2025 04:57:04.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-212, y=70, z=-125}
 [01Apr2025 05:00:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Te_ed has made the advancement [Suit Up]
+[01Apr2025 05:02:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Te_ed> mw vo a dormir mno alamos
+[01Apr2025 05:02:21.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Te_ed lost connection: Disconnected
+[01Apr2025 05:02:21.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Te_ed left the game
+[01Apr2025 05:02:21.487] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Te_ed
+[01Apr2025 05:03:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was shot by Skeleton
+[01Apr2025 05:15:22.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 has made the advancement [Alex's Caves]
+[01Apr2025 05:15:29.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 has made the advancement [It Belongs in a Museum]
+[01Apr2025 05:19:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was shot by Skeleton
