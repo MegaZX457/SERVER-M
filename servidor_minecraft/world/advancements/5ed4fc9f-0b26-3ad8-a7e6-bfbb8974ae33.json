@@ -11,6 +11,7 @@
       "minecraft:taiga": "2025-03-30 16:23:17 +0000",
       "minecraft:beach": "2025-04-01 04:54:47 +0000",
       "minecraft:dark_forest": "2025-04-01 05:04:49 +0000",
+      "minecraft:river": "2025-04-01 07:29:12 +0000",
       "minecraft:stony_shore": "2025-03-30 16:23:25 +0000",
       "minecraft:cold_ocean": "2025-04-01 04:46:32 +0000",
       "minecraft:lush_caves": "2025-04-01 05:05:50 +0000"
@@ -520,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-01 07:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-01 04:42:04 +0000"
@@ -880,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-01 07:33:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-01 06:03:51 +0000"
@@ -919,6 +932,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-01 05:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-01 07:38:11 +0000"
     },
     "done": true
   },
@@ -1099,6 +1118,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-01 06:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-01 07:40:10 +0000"
     },
     "done": true
   },
@@ -1582,6 +1607,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-01 04:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-01 07:38:11 +0000"
     },
     "done": true
   },
