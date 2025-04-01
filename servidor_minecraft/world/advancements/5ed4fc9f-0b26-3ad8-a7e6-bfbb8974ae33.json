@@ -28,6 +28,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-30 16:33:10 +0000",
+      "minecraft:spider": "2025-04-01 04:26:39 +0000",
       "minecraft:creeper": "2025-03-30 16:37:06 +0000",
       "minecraft:zombie": "2025-03-30 16:35:48 +0000"
     },
@@ -114,6 +115,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-01 04:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-01 04:26:40 +0000"
     },
     "done": true
   },
@@ -258,6 +265,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-01 04:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-01 04:27:48 +0000"
     },
     "done": true
   },
