@@ -226,3 +226,6 @@
 [01Apr2025 05:19:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was shot by Skeleton
 [01Apr2025 06:24:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 has made the advancement [Diamonds!]
 [01Apr2025 07:38:11.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 has made the advancement [Ice Bucket Challenge]
+[01Apr2025 07:55:08.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MegaZX4734 lost connection: Disconnected
+[01Apr2025 07:55:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 left the game
+[01Apr2025 07:55:08.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MegaZX4734

@@ -1996,3 +1996,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Apr2025 07:46:23.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 07:51:23.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 07:51:23.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 07:55:08.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MegaZX4734 lost connection: Disconnected
+[01Apr2025 07:55:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 left the game
+[01Apr2025 07:55:08.185] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MegaZX4734
+[01Apr2025 07:55:08.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MegaZX4734
+[01Apr2025 07:56:23.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 07:56:23.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 08:01:23.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 08:01:23.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
