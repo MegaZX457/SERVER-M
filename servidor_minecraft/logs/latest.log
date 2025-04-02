@@ -87,3 +87,6 @@
 [02Apr2025 01:25:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was slain by Cave Spider
 [02Apr2025 01:45:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was blown up by Creeper
 [02Apr2025 01:57:39.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 was blown up by Creeper
+[02Apr2025 02:00:59.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MegaZX4734 lost connection: Disconnected
+[02Apr2025 02:00:59.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MegaZX4734 left the game
+[02Apr2025 02:00:59.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MegaZX4734
