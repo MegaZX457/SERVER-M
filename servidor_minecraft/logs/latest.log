@@ -94,3 +94,15 @@
 [05Apr2025 00:30:53.230] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.28.20.223:36195] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [05Apr2025 00:31:04.732] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,sophisticatedbackpacks:channel,citadel:main_channel,sophisticatedcore:channel] rejected vanilla connections
 [05Apr2025 00:31:04.733] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.140.125.96:59707] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[05Apr2025 00:59:25.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Te_ed[/127.140.125.96:40911] logged in with entity id 8968 at (-183.0108466551676, 72.0, -118.30000001192093)
+[05Apr2025 00:59:25.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Te_ed joined the game
+[05Apr2025 00:59:26.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Te_ed (18)
+[05Apr2025 00:59:26.049] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Te_ed
+[05Apr2025 00:59:51.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MegaZX4734> mano mientras no estabas mine muchos diamantes
+[05Apr2025 01:07:03.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Te_ed lost connection: Disconnected
+[05Apr2025 01:07:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Te_ed left the game
+[05Apr2025 01:07:03.853] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Te_ed
+[05Apr2025 01:07:12.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Te_ed[/127.28.20.223:54775] logged in with entity id 10969 at (-589.3671857571155, 64.0, 39.09237803474797)
+[05Apr2025 01:07:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Te_ed joined the game
+[05Apr2025 01:07:12.679] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Te_ed (18)
+[05Apr2025 01:07:12.680] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Te_ed
