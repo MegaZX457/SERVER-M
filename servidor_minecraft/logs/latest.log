@@ -90,3 +90,7 @@
 [05Apr2025 00:16:06.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Apr2025 00:16:06.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: avatar<--[HERE]
 [05Apr2025 00:21:35.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MegaZX4734> yess
+[05Apr2025 00:30:53.229] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,sophisticatedbackpacks:channel,citadel:main_channel,sophisticatedcore:channel] rejected vanilla connections
+[05Apr2025 00:30:53.230] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.28.20.223:36195] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[05Apr2025 00:31:04.732] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,sophisticatedbackpacks:channel,citadel:main_channel,sophisticatedcore:channel] rejected vanilla connections
+[05Apr2025 00:31:04.733] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.140.125.96:59707] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
